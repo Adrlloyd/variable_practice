@@ -9,3 +9,10 @@ amount_paid = 2000.00
 
 deposit_paid = true
 sky_blue = true
+
+email = "secondtest@gmail.com"
+name = "Lloyd"
+
+puts "Ruby Ruby Ruby"
+puts "Hello"
+puts "Is this correct?"
